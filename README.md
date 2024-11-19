@@ -18,17 +18,17 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Experiment:
+![image](https://github.com/Rakshithadevi/Muttiple-capacity-with-infinite-capacity/assets/94165326/32b1414a-2030-4a3c-a0e8-4c05344bd546)
 
-![output](./5a.png)
-
-![output](./5b.png)
+![image](https://github.com/Rakshithadevi/Muttiple-capacity-with-infinite-capacity/assets/94165326/9e3a31db-0bda-49b2-b4d2-9fcc9e681009)
 
 
-## Program
-~~~
 
-DEVELOPED BY : Prasanth E
-REGISTER NO : 212221233002
+## Program:
+```
+
+DEVELOPED BY : RAKSHITHA DEVI J
+REGISTER NO : 212221230082
 
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -62,11 +62,13 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
 
-~~~
+```
+
 
 ## Output :
+![image](https://github.com/Rakshithadevi/Muttiple-capacity-with-infinite-capacity/assets/94165326/20c4616c-139b-465f-b1ed-dd1e91ee7c4f)
 
-![output](./5c.png)
 
 ## Result : 
 Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
+
